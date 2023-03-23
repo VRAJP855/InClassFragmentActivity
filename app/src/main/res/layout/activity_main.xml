@@ -8,7 +8,6 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView3"
-
         android:layout_width="463dp"
         android:layout_height="357dp"
         tools:layout="@layout/fragment_image_display"
